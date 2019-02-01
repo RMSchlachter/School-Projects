@@ -1,3 +1,4 @@
+// parallelization of seive3 using OpenMP
 
 #include <stdio.h>
 #include <stdlib.h>
