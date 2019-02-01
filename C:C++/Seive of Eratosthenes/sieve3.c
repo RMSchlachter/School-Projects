@@ -1,3 +1,4 @@
+// seive1 with blocked loop to improve locality
 
 #include <stdio.h>
 #include <stdlib.h>
