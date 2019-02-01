@@ -1,4 +1,4 @@
-// seive1 parallelized with OpenMP
+// parallelization of seive1 using OpenMP
 
 #include <stdio.h>
 #include <stdlib.h>
