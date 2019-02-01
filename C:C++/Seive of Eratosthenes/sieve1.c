@@ -1,3 +1,4 @@
+// sequential SoE
 
 #include <stdio.h>
 #include <stdlib.h>
